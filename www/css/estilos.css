@@ -16,7 +16,7 @@ body{
  .container{
  	background-color: lightblue;
  	margin-top: 8%;
- 	width: 75%;
+ 	width: 100%;
  	border: 3px solid #000000;
  	padding: 35px; 
  }
